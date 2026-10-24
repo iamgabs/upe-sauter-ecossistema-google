@@ -1,0 +1,20 @@
+# Ambiente virtual (criado por `make setup`)
+.venv/
+
+# Segredos (ex.: GOOGLE_API_KEY) - nunca commitar
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Logs de execução
+logs/

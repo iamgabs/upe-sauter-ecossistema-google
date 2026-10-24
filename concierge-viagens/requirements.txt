@@ -1,0 +1,2 @@
+# FastAPI, uvicorn, httpx e python-dotenv já vêm como dependências do google-adk.
+google-adk

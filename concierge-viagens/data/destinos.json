@@ -1,0 +1,92 @@
+[
+  {
+    "cidade": "Porto de Galinhas",
+    "estado": "PE",
+    "perfis": ["praia", "aventura"],
+    "clima": "quente",
+    "diaria_media_brl": 450,
+    "gasto_diario_medio_brl": 280,
+    "melhor_epoca": "setembro a março",
+    "destaques": ["piscinas naturais", "passeio de jangada", "praias de águas mornas"]
+  },
+  {
+    "cidade": "Olinda",
+    "estado": "PE",
+    "perfis": ["cultura", "gastronomia"],
+    "clima": "quente",
+    "diaria_media_brl": 260,
+    "gasto_diario_medio_brl": 180,
+    "melhor_epoca": "setembro a fevereiro",
+    "destaques": ["centro histórico", "ateliês de artistas", "carnaval de rua"]
+  },
+  {
+    "cidade": "Fernando de Noronha",
+    "estado": "PE",
+    "perfis": ["natureza", "praia", "aventura"],
+    "clima": "quente",
+    "diaria_media_brl": 900,
+    "gasto_diario_medio_brl": 450,
+    "melhor_epoca": "agosto a dezembro",
+    "destaques": ["mergulho", "golfinhos", "trilhas e mirantes"]
+  },
+  {
+    "cidade": "Gramado",
+    "estado": "RS",
+    "perfis": ["gastronomia", "cultura"],
+    "clima": "frio",
+    "diaria_media_brl": 520,
+    "gasto_diario_medio_brl": 320,
+    "melhor_epoca": "maio a agosto",
+    "destaques": ["fondue e chocolate", "festivais", "arquitetura de serra"]
+  },
+  {
+    "cidade": "Bonito",
+    "estado": "MS",
+    "perfis": ["natureza", "aventura"],
+    "clima": "quente",
+    "diaria_media_brl": 480,
+    "gasto_diario_medio_brl": 350,
+    "melhor_epoca": "abril a outubro",
+    "destaques": ["flutuação em rios cristalinos", "grutas", "cachoeiras"]
+  },
+  {
+    "cidade": "Salvador",
+    "estado": "BA",
+    "perfis": ["cultura", "gastronomia", "praia"],
+    "clima": "quente",
+    "diaria_media_brl": 350,
+    "gasto_diario_medio_brl": 220,
+    "melhor_epoca": "setembro a março",
+    "destaques": ["Pelourinho", "acarajé", "música e festas populares"]
+  },
+  {
+    "cidade": "Campos do Jordão",
+    "estado": "SP",
+    "perfis": ["gastronomia", "natureza"],
+    "clima": "frio",
+    "diaria_media_brl": 480,
+    "gasto_diario_medio_brl": 260,
+    "melhor_epoca": "junho a agosto",
+    "destaques": ["inverno cultural", "trilhas na serra", "cafeterias"]
+  },
+  {
+    "cidade": "Chapada Diamantina",
+    "estado": "BA",
+    "perfis": ["natureza", "aventura"],
+    "clima": "ameno",
+    "diaria_media_brl": 240,
+    "gasto_diario_medio_brl": 200,
+    "melhor_epoca": "maio a setembro",
+    "destaques": ["Morro do Pai Inácio", "poços azuis", "trekking"]
+  },
+  {
+    "cidade": "Curitiba",
+    "estado": "PR",
+    "perfis": ["cultura", "gastronomia"],
+    "clima": "ameno",
+    "diaria_media_brl": 300,
+    "gasto_diario_medio_brl": 200,
+    "melhor_epoca": "março a maio",
+    "destaques": ["Jardim Botânico", "museus", "feiras de rua"]
+  }
+]

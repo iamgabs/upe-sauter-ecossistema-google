@@ -1,0 +1,8 @@
+# Garante finais de linha corretos em qualquer sistema (importante no Windows,
+# onde o Git pode converter para CRLF e quebrar scripts de shell e o Makefile).
+* text=auto
+*.sh       text eol=lf
+Makefile   text eol=lf
+*.ps1      text eol=crlf
+*.cmd      text eol=crlf
+*.bat      text eol=crlf
